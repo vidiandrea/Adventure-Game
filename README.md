@@ -1,5 +1,5 @@
 # Summon Town
-Adventure Game project for Intro to Programming
+Adventure Game project for Intro to Programming. Created by Violet DiAndrea.
 
 ## Game Overview
 Summon minions to build and defend your new town.
